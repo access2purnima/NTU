@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\TrekStarFilmManagementSystem\TrekStarFilmManagementSystem\bin\Debug\TrekStarFilmManagementSystem.exe.config
+D:\Visual Studio 2013\TrekStarFilmManagementSystem\TrekStarFilmManagementSystem\bin\Debug\TrekStarFilmManagementSystem.exe
+D:\Visual Studio 2013\TrekStarFilmManagementSystem\TrekStarFilmManagementSystem\bin\Debug\TrekStarFilmManagementSystem.pdb
+D:\Visual Studio 2013\TrekStarFilmManagementSystem\TrekStarFilmManagementSystem\obj\Debug\TrekStarFilmManagementSystem.exe
+D:\Visual Studio 2013\TrekStarFilmManagementSystem\TrekStarFilmManagementSystem\obj\Debug\TrekStarFilmManagementSystem.pdb
